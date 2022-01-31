@@ -7,7 +7,7 @@ This repository holds the sources of the EVERTims raytracing client and the libe
 Run the build scripts in the ./build directory
 
 
-### zac-towbes/evertims
+### r3adne/evertims
 is a forked version of EVERTims/evertims. I am adding some extra functionality:
 
 * frequency-dependant gain in air absorption calculation
